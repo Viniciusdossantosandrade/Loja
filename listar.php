@@ -27,8 +27,8 @@
                    echo"
                    <td>
                         <div class='btn-group' role='group'>
-                        <a href='#' type='button' class='btn btn-info'>Atualizar</a>
-                        <a href='#' type='button' class='btn btn-danger'>Apagar</a>
+                            <a href='form_atualizar.php?id=".$produto['id']."' type='button' class='btn btn-info'>Atualizar</a>
+                            <a href='#' type='button' class='btn btn-danger'>Apagar</a>
                         </div>
 
                    </td>
